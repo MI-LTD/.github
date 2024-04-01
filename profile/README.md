@@ -69,6 +69,10 @@ Since its inception in 1987, Measurements International (MI) has been manufactur
 email: [sales@mintl.com](mailto:sales@mintl.com?subject=[Github]%20Source%20Han%20Sans)
 
 # Contributors
+@blukasi
+@CMoranMINTL
+@Tarek-Mhareb
+
 
 <!--
 
